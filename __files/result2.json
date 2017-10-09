@@ -1,0 +1,8 @@
+{
+	"campo1": {{request.path.[2]}},
+	"campo2": 123,
+	"campo3": {
+		"campo3.1":"tst",
+		"campo3.2":2342342342343434
+	}
+}

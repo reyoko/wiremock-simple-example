@@ -1,0 +1,13 @@
+{
+    "request": {
+        "method": "GET",
+        "urlPattern": "/alguma/url3/.*"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "result2.json",
+		"headers": {
+			"Content-Type": "application/json"
+		}	
+    }
+}
